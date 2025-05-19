@@ -235,5 +235,3 @@ echo json_encode($results);
 2. [autocomplete-plus](https://atom.io/packages/autocomplete-plus)
 3. W3Techs PHP 市场份额分析报告
 4. ...
-
-</details>
